@@ -11,7 +11,7 @@ Presentation materials
 3. One of the most useful parts of Bayesian modeling, the prior, often gets wasted because it is too difficult to calculate them.
 4. Deep learning has been used to solve bayesian problems, but success has been limited.
 5. In possibly groundbreaking work, the authors show how a kind of self-supervised learning (using artificial generated data) can be used build priors and caclculate posterior probabilities using a Transformer network. 
-6. In sample work, this approach outperformed XGBoost and CatBoost, and provided meaningful uncertainty, while training up to 5,000 times faster (from 20 hours to minutes)!
+6. In sample work, this approach outperformed XGBoost and CatBoost, and provided meaningful uncertainty, while training more than 5,000 times faster (from 20 hours to 13 seconds)!
 7. More exploration needs to be done to see if the promised holds more generally. 
 
 ## Discussion Topic 1
