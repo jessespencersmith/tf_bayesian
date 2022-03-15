@@ -4,7 +4,6 @@ Prior-Data Fitted Networks
 
 
 ## Overview
-Presentation materials
 
 1. Bayesian methods are widely used in science and industry and can provide both optimal solutions, uncertainty estimates, and interpretability, but can be computationally intractable or unsolvable.
 2. Bayesian methods can be used for machine learning, but see above. If they could be made to work they might beat current methods and sidestep the No Free Lunch problem. 
