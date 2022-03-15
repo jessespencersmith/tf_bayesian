@@ -14,6 +14,13 @@ Presentation materials
 6. In sample work, this approach outperformed XGBoost and CatBoost, and provided meaningful uncertainty, while training more than 5,000 times faster (from 20 hours to 13 seconds)!
 7. More exploration needs to be done to see if the promised holds more generally. 
 
+### Predicting Outcomes from Tabular Datasets
+
+From their paper, Muller, Hollmann, Pineda, Grabocka, and Hutter describe how they pretrain on a universe of Bayesian Neural Network priors:
+
+![image](https://user-images.githubusercontent.com/5521243/158394006-ce275df7-f618-4b95-b9da-4b0aa3bcc630.png)
+
+
 ## Discussion Topic 1
 
 IF the findings in the paper generalize broadly, what impact could this have on future Machine Learning approaches?
